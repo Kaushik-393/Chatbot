@@ -37,3 +37,6 @@ $ (venv) python chat.py
 ```
 
 Now for deployment follow my tutorial to implement `app.py` and `app.js`.
+
+Here's how the result will look like:
+<img width="402" height="576" alt="Screenshot 2025-07-26 133415" src="https://github.com/user-attachments/assets/61831d94-a290-4d3c-9065-72e594bfff37" />
